@@ -22,7 +22,7 @@ print("\n")
 
 # Main program
 while True:
-    print("MENU PILIHAN")
+    print("------MENU PILIHAN-------")
     print("1. Input angka")
     print("2. Sorting")
     print("3. Searching")
