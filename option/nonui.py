@@ -12,6 +12,13 @@ def searching():
         print("Angka ditemukan")
     else:
         print("Angka tidak ditemukan")
+print("\n")
+print("-------------------------------------------------------------------------")
+print("---------------Aplikasi Penyortiran dan Pencarian Angka------------------")
+print("-------------------------------------------------------------------------")
+print("\n")
+print("app By Barkah Herdyanto")
+print("\n")
 
 # Main program
 while True:
