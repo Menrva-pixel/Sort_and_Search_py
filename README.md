@@ -2,8 +2,8 @@
 Python Practice
 
 ### Requirements
-pip install tkinter
-pip install art
+- pip install tkinter
+- pip install art
 
 run the program
 
